@@ -110,7 +110,7 @@ function BookReader() {
 
     // Object to hold parameters related to 1up mode
     this.onePage = {
-        autofit: 'height'                                     // valid values are height, width, none
+        autofit: 'width'                                     // valid values are height, width, none
     };
     
     // Object to hold parameters related to 2up mode
